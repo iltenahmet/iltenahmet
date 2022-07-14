@@ -1,6 +1,6 @@
 <pre>
 - 👋 Hi, I’m Ahmet Ilten. I'm a junior at NYU, majoring in Computer Science with a minor in Economics.
-- 👀 I’m interested in playing and creating games, playing and watching football (soccer), traveling and weight training.
+- 👀 I’m interested in playing and creating games, playing and watching football (soccer), traveling, and weight training.
 - 🌱 I’m currently learning game development in Unreal Engine 5. 
 - 📫 LinkedIn: https://www.linkedin.com/in/iltenahmet/
      Instagram: @iltenahmet
