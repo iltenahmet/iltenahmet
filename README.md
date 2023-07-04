@@ -1,6 +1,7 @@
 <pre>
 LinkedIn: https://www.linkedin.com/in/iltenahmet/
 Website: ahmetilten.com
+Youtube: https://youtube.com/@iltenahmet
 Email: ai2068@nyu.edu
 <pre>
 
