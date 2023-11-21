@@ -1,5 +1,5 @@
 
---> [Personal Website](https://www.ahmetilten.com) <--
+--> [Personal Website](ahmetilten.com) <--
 
 --> [LinkedIn](https://www.linkedin.com/in/iltenahmet/) <--
 
