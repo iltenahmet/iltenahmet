@@ -1,9 +1,9 @@
-<pre>
-LinkedIn: https://www.linkedin.com/in/iltenahmet/
-Website: ahmetilten.com
-Youtube: https://youtube.com/@iltenahmet
-Email: ai2068@nyu.edu
-<pre>
+
+--> [Personal Website](https://www.ahmetilten.com) <--
+
+--> [LinkedIn](https://www.linkedin.com/in/iltenahmet/) <--
+
+--> [Youtube](https://youtube.com/@iltenahmet) <--
 
 <!---
 iltenahmet/iltenahmet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
